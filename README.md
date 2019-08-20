@@ -11,11 +11,11 @@ https://docs.snowflake.net/manuals/user-guide/snowsql-config.html
 Add in the `~/snowsql/config`
 
 #[connections.test]
-accountname = tuiuk.eu-central-1
-username = youruser
-password = yourpassword
-dbname = dbname
-schemaname = public
+accountname = tuiuk.eu-central-1  
+username = youruser . 
+password = yourpassword . 
+dbname = dbname . 
+schemaname = public . 
 
 ## Run 
 
